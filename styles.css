@@ -355,3 +355,187 @@ body {
   font-family: "Jost", sans-serif;
   transition: 0.3s;
 }
+
+.card p{
+    color: #555;
+}
+
+.card-body{
+    padding: 2rem 1rem;
+}
+
+.price{
+    position: absolute;
+    bottom: 0;
+    left: 3%;
+    background-color: rgba(0, 0, 0, 0.65);
+    color: white;
+    font-weight: 600;
+    padding: .5rem .95rem;
+}
+
+.card-s-title{
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #777;
+    font-size: 1.1rem;
+}
+
+.card-title{
+    padding-bottom: 1rem;
+    font-size: 1.4rem;
+    color: #FE1A95;
+}
+
+.rating{
+    display: flex;
+    align-items: center;
+    padding: 1.5rem 0;
+}
+
+.stars{
+    display: flex;
+}
+
+.stars img{
+    width: 25px;
+}
+
+.reviews p{
+    color: #777;
+    padding-left: 1rem;
+}
+
+.card-bottom{
+    border-top: 1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+}
+
+.duration{
+    display: flex;
+    padding: 1.5rem .8rem;
+}
+
+.duration .time, .duration .likes{
+    display: flex;
+    align-items: center;
+}
+
+.time{
+    padding-right: 1.4rem;
+}
+
+.duration img{
+    width: 20px;
+    margin-right: .4rem;
+}
+
+.btn-enrol{
+    border: 2px solid #ff1717;
+    color: #ff1818;
+    padding: .3rem 1.5rem;
+    border-radius: 30px;
+    display: inline-block;
+    align-self: center;
+    margin-right: .8rem;
+    transition: all .4s ease-in-out;
+}
+
+.btn-enrol:hover{
+    background-color: #ff1b1b;
+    color: white;
+}
+
+
+
+.card p{
+    color: #555;
+}
+
+.card-body{
+    padding: 2rem 1rem;
+}
+
+.price{
+    position: absolute;
+    bottom: 0;
+    left: 3%;
+    background-color: rgba(0, 0, 0, 0.65);
+    color: white;
+    font-weight: 600;
+    padding: .5rem .95rem;
+}
+
+.card-s-title{
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #777;
+    font-size: 1.1rem;
+}
+
+.card-title{
+    padding-bottom: 1rem;
+    font-size: 1.4rem;
+    color: #FE1A95;
+}
+
+.rating{
+    display: flex;
+    align-items: center;
+    padding: 1.5rem 0;
+}
+
+.stars{
+    display: flex;
+}
+
+.stars img{
+    width: 25px;
+}
+
+.reviews p{
+    color: #777;
+    padding-left: 1rem;
+}
+
+.card-bottom{
+    border-top: 1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+}
+
+.duration{
+    display: flex;
+    padding: 1.5rem .8rem;
+}
+
+.duration .time, .duration .likes{
+    display: flex;
+    align-items: center;
+}
+
+.time{
+    padding-right: 1.4rem;
+}
+
+.duration img{
+    width: 20px;
+    margin-right: .4rem;
+}
+
+.btn-enrol{
+    border: 2px solid #ff1717;
+    color: #ff1818;
+    padding: .3rem 1.5rem;
+    border-radius: 30px;
+    display: inline-block;
+    align-self: center;
+    margin-right: .8rem;
+    transition: all .4s ease-in-out;
+}
+
+.btn-enrol:hover{
+    background-color: #ff1b1b;
+    color: white;
+}
